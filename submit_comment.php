@@ -6,10 +6,10 @@ $comment = $_POST['comment'];
 // Sprawdzanie, czy dane zostały przesłane
 if ($name && $comment) {
   // Konfiguracja połączenia z bazą danych
-  $servername = "localhost";
-  $username = "i24n";
-  $password = "Sharing2010!";
-  $dbname = "i24n";
+  $servername = "";
+  $username = "";
+  $password = "";
+  $dbname = "";
 
   // Tworzenie połączenia z bazą danych
   $conn = new mysqli($servername, $username, $password, $dbname);
