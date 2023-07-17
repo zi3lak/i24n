@@ -137,7 +137,7 @@
   </div>
   <div class="container">
     <h1>Tunel pod Corsham i Bath</h1>
-    <h2>08.07.2023!</h2>
+    <h2>08.07.2023</h2>
     <p>Tunel pod Corsham i Bath to kompleks podziemnych tuneli i kopalni znajdujący się w hrabstwie Wiltshire w Anglii. Oficjalnie znany jako Corsham Tunnels, był wykorzystywany przez brytyjskie Ministerstwo Obrony w czasie wojny jako miejsce przechowywania sprzętu wojskowego i amunicji.</p>
     
     <h2>Nieoficjalne historie i teorie</h2>
